@@ -34,7 +34,7 @@ Enter your question and click the ball!
 
 -----
 
-do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https://martynakil.github.io/magic_ball/04%20-%20Magic%208Ball/index.html)
+do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https://martynakil.github.io/magic_ball/index.html)
 
 
 -----
