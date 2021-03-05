@@ -34,7 +34,7 @@ Enter your question and click the ball!
 
 -----
 
-do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https://martynakil.github.io/magic_ball/index.html)
+do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https://martynakiljan.github.io/magic_ball/index.html)
 
 
 -----
@@ -43,7 +43,7 @@ do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https
 :computer: TECHNOLOGIES : html, css and JS.
 
 —---->
-My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/countdown-timer)
+My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakiljan/countdown-timer)
 
 
 ![Zrzut ekranu 2021-01-17 o 12 30 00](https://user-images.githubusercontent.com/59742201/104839167-b98dae00-58bf-11eb-82d1-f6afdfacd611.png)
